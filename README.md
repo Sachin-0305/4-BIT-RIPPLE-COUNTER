@@ -97,7 +97,10 @@ endmodule
 ```
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
+![Screenshot 2024-05-15 170507](https://github.com/Sachin-0305/4-BIT-RIPPLE-COUNTER/assets/149985717/97528fb2-b2c4-4c86-a661-6bff6679dbdf)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+![Screenshot 2024-05-15 170518](https://github.com/Sachin-0305/4-BIT-RIPPLE-COUNTER/assets/149985717/428fd318-ab23-4db0-91e1-8a60641992f5)
 
 **RESULTS**
+Thus the program executed succesfully.
